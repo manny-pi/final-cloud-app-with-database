@@ -1,1 +1,1 @@
-SELECT * FROM 
+SELECT * FROM onlinecourse_course
